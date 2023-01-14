@@ -1,2 +1,2 @@
 # appointment-planner
-Live: https://app-planner.netlify.app/contacts
+Live: https://app-planner.netlify.app/
