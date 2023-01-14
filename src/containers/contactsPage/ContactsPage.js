@@ -48,7 +48,7 @@ export const ContactsPage = (props) => {
         alert('Name is already in the Contact List')
       }
     }
-  }, [currentName]);
+  }, [currentName, contacts]);
 
   return (
     <div>

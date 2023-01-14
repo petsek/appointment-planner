@@ -51,7 +51,7 @@ export const AppointmentForm = (props) => {
         onChange = {handleTimeChange}
         placeholder = 'Enter Time' 
         id= 'time'
-        // min = {getTodayString}
+        min = {getTodayString}
         />
     <label for='contact'>Contact</label>
       <ContactPicker
